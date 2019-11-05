@@ -1,3 +1,3 @@
 Верстка по макету 
 
-https://github.com/RodionRoslovets/dhl_example/
+https://rodionroslovets.github.io/dhl_example/
